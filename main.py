@@ -1,1 +1,1 @@
-print("Hello Sushi")
+print("Hello Ice-Cream")
